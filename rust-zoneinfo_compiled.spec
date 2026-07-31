@@ -5,8 +5,8 @@
 %global crate zoneinfo_compiled
 
 Name:           rust-%{crate}
-Version:        0.4.8
-Release:        3%{?dist}
+Version:        0.5.1
+Release:        1%{?dist}
 Summary:        Library for parsing compiled zoneinfo files
 
 # Upstream license specification: MIT
